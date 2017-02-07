@@ -1,5 +1,5 @@
 {
-  "name": "nilportugues/eloquent-mongodb-repository",
+  "name": "jversmis/eloquent-mongodb-repository",
   "description": "Eloquent MongoDB Repository implementation",
   "keywords": ["eloquent", "mongodb", "mongo", "laravel", "repository", "cache", "ddd", "hexagonal", "ports and adapters", "ports", "adapters", "repository", "pageable", "pagination", "nil portugues", "nilportugues"],
   "type": "library",
